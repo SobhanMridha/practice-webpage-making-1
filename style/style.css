@@ -14,7 +14,7 @@
       #101010 -19.5%,
       rgba(16, 16, 16, 0) 100%
     ),
-    url(/make-essential-UI-components-Resources-main/assets/hero-bg.png);
+    url(../make-essential-UI-components-Resources-main/assets/hero-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
