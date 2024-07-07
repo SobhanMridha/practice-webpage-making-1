@@ -39,7 +39,6 @@
   font-size: 64px;
   font-weight: 700;
   margin-bottom: 24px;
-
 }
 
 .heading-para {
@@ -50,20 +49,116 @@
   font-weight: 500;
   opacity: 0.7;
   margin-bottom: 32px;
-
 }
 
 .btn {
   width: 282px;
   height: 65px;
-  color: #FFFFFF;
+  color: #ffffff;
   border: none;
   font-size: 20px;
   font-family: "Work Sans";
-  background-color: #52C303;
+  background-color: #52c303;
   border-radius: 8px;
 }
 
-.btn:hover{
+.btn:hover {
   cursor: pointer;
+}
+
+/* The body */
+
+.the-body {
+  margin-top: 167px;
+}
+
+.body-food-description {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 64px;
+  
+}
+
+.body-heading {
+  color: #101010;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Work Sans";
+  opacity: 0.6;
+  margin-bottom: 16px;
+}
+
+.body-heading-offer {
+  width: 691px;
+  text-align: center;
+  color: #101010;
+  font-size: 48px;
+  font-weight: 700;
+  font-family: "Work Sans";
+  margin-bottom: 48px;
+}
+
+.body-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-size {
+  width: 424px;
+  height: 283px;
+  margin-bottom: 32px;
+}
+
+.card-body {
+  margin-right: 24px;
+}
+
+.card-body-des{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.card-size{
+  width: 424px;
+  height: 522px;
+  
+}
+
+.food-name {
+  
+  padding: 14px 32px;
+  color: #101010;
+  border: 8px;
+  text-align: center;
+  font-family: "Work Sans";
+  font-size: 24px;
+  font-weight: 600;
+  border-radius: 8px;
+  background: rgba(82, 195, 3, 0.15);
+  margin-bottom: 24px;
+}
+
+.food-offer {
+  color: #101010;
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 24px;
+  font-family: "Work Sans";
+
+}
+
+.food-description {
+  color: #101010;
+  font-size: 18px;
+  font-weight: 500;
+  opacity: 0.7;
+  text-align: center;
+}
+
+.body-btn-center{
+  text-align: center;
+  margin-bottom: 184px;
 }
