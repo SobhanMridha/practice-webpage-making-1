@@ -163,7 +163,10 @@
 /* lower body */
 
 .lower-body1 {
-  display: flex;
+  background-image: url(../make-essential-UI-components-Resources-main/assets/image\ 2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .lower-body2 {
